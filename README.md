@@ -2,7 +2,8 @@
 
 ## constituent part
 
-### sorting
+>**sorting**
+
 name    | time complexity |  space complexity  |    stability    |    adaptive    |
 :------:  | :------: | :------: | :------: | :------: |
 insertion sort | O(n²)   | O(1) | Y  | Y |
