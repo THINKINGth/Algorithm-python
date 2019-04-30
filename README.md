@@ -1,6 +1,6 @@
 # Algorithm-python
 
-## constituent part
+## include
 
 >**sorting**
 
