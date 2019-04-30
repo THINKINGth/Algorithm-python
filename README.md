@@ -2,9 +2,10 @@
 
 ## constituent part
 
-> sorting
->...
+> **sorting**
+> ...
 
 ## version
-> New sorting algorithm
+> 2019 4.30
+>> New sorting algorithm
 
