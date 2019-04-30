@@ -1,2 +1,9 @@
 # Algorithm-python
-## sorting
+
+## constituent part
+
+### sorting
+### ...
+---
+## version
+
