@@ -2,9 +2,9 @@
 
 ## constituent part
 
-### sorting
-### ...
----
+> sorting
+>...
+
 ## version
-New sorting algorithm
+> New sorting algorithm
 
